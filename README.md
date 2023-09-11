@@ -18,10 +18,10 @@ HNG STAGE 2 TASK is a simple Flutter application that allows you to showcase you
 
 ### Appetizer Usage:
 ___ 
-* Copy and paste this url on your browser: 
- https://appetize.io/app/vip3ce7fvgrdnm5jidc5eonjla?device=pixel7pro&osVersion=13.0&scale=50
+* Visit this website: 
+ https://appetize.io/app/g57x37vqjlj3xocage6lbvisou?device=pixel6pro&osVersion=12.0&scale=50
 
-* Use the pixel 7 pro on android 13 to view
+* Use the pixel 6 pro on android 12 to view
 
 * Click on 'Tap to Play' on the emulator
 
@@ -109,5 +109,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 - #### Push your branch to your fork on GitHub.
 - Create a pull request with a description of your changes.
 
+___
 ___
 Thank you for showing interest in HNG STAGE 2 TASK! If you have any questions, feedback, or suggestions, feel free to contact me via email or through my GitHub profile. Your input is valuable, and I look forward to enhancing this project together.

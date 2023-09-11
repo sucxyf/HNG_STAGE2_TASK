@@ -12,8 +12,8 @@ class FirstScreen extends StatefulWidget {
 class _FirstScreenState extends State<FirstScreen> {
   CVDetails cvDetails = CVDetails(
     fullName: "Success Felix-Imhanlenjaye",
-    username: "@sucyfelix",
-    githubHandle: "https://www.github.com/sucyfelix",
+    username: "Success Felix-Imhanlenjaye",
+    githubHandle: "@sucyfelix",
     personalBio:
         'Emerging Flutter developer with a keen interest in mobile application development. Dedicated and quick learner, focused on mastering Flutter to provide innovative solutions.',
   );
@@ -57,7 +57,7 @@ class _FirstScreenState extends State<FirstScreen> {
                 ),
                 cvDetailsContainer(
                   text: cvDetails.githubHandle,
-                  height: 70,
+                  height: 50,
                 ),
                 SizedBox(height: 30.0),
                 cvDetailsLabel(label: 'Personal Bio'),
@@ -65,7 +65,7 @@ class _FirstScreenState extends State<FirstScreen> {
                   height: 5,
                 ),
                 Container(
-                  height: 160,
+                  height: 145,
                   width: double.infinity,
                   decoration: BoxDecoration(
                       border: Border.all(
