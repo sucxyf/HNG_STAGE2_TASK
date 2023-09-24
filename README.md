@@ -9,11 +9,7 @@ HNG STAGE 2 TASK is a simple Flutter application that allows you to showcase you
 - View your CV details, including your full name, username, GitHub handle, and personal bio.
 - Edit and update your CV information.
 - Elegant and user-friendly UI design.
-
-## Screenshots
-
-![First Screen](assets/screen1.png) ![Second Screen](assets/screen2.png)
-
+  
 ## Usage
 
 ### Appetizer Usage:
